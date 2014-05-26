@@ -14,7 +14,7 @@ Compared to other DS2 save backup programs, this has all of the standard plus a 
 * Customizable backup frequency (in minutes)
 * Backup file size tracking
 * Easy way to manually clear out all existing backups
-* Optional automatic cleanup of old backups (in terms of number of backups kept)
+* Optional automatic cleanup of old backups (in terms of number of backups kept - option to keep under a file size coming soon)
 * Support for multiple save files
 * Instant backup option when you need a quick backup
 * Instant restore option, which will replace your saves with your most recent backups
