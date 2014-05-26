@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\bin\Debug\DS2SaveBackup.exe.config
+c:\users\michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\bin\Debug\DS2SaveBackup.exe
+c:\users\michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\bin\Debug\DS2SaveBackup.pdb
+c:\users\michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\obj\Debug\DS2SaveBackup.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\obj\Debug\DS2SaveBackup.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\obj\Debug\DS2SaveBackup.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\obj\Debug\DS2SaveBackup.exe
+c:\users\michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\obj\Debug\DS2SaveBackup.pdb
+c:\users\michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\obj\Debug\DS2SaveBackup.DS2SaveBackup.resources

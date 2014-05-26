@@ -1,0 +1,8 @@
+C:\Users\Michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\bin\Release\DS2SaveBackup.exe.config
+C:\Users\Michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\bin\Release\DS2SaveBackup.exe
+C:\Users\Michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\bin\Release\DS2SaveBackup.pdb
+C:\Users\Michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\obj\Release\DS2SaveBackup.DS2SaveBackup.resources
+C:\Users\Michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\obj\Release\DS2SaveBackup.Properties.Resources.resources
+C:\Users\Michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\obj\Release\DS2SaveBackup.csproj.GenerateResource.Cache
+C:\Users\Michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\obj\Release\DS2SaveBackup.exe
+C:\Users\Michael\documents\visual studio 2013\Projects\DS2SaveBackup\DS2SaveBackup\obj\Release\DS2SaveBackup.pdb
