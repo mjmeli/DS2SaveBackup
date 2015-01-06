@@ -2,6 +2,9 @@ Dark Souls II Automatic Save Backup
 =============
 
 ##### Description
+
+NOTE: This repo is not the latest version of this software! I'll try to update this as soon as possible.
+
 This is the source code for my Dark Souls II Automatic Save Backup program. This is written in C# targetting .NET 4.5.
 
 I created this program primarily for myself. I have been using other programs, but have wanted a program with a GUI interface that has a few more elaborate features than simply copying files from one directory to another. As such, I made this.
